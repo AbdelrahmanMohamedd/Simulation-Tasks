@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1555743847 source:c:\users\ag\desktop\task 5\main.cpp
+
+1555777316 source:g:\fci\# year 2\#term 2\simulation\tasks\task 5 tie_one\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+
